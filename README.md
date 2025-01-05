@@ -26,5 +26,5 @@ This project uses a data set based on weather observations from 18 weather stati
 Files for this project:
 
 - Scripts: Jupyter notebooks containing code for analysis and algorithms
-- Project briefs: Objectives, company profile, and project details
-- Presentations: Interim report and final presentation with recommendations on algorithms to use for future analysis
+- **[Project Brief: Objectives, company profile, and project details](https://github.com/Tiffkinn/ClimateWins-Pleasant_Predictions/blob/5b684b57259974ddae35e1453aeca23a5d0e9061/Project%20Briefs%20and%20Presentation/Machine-Learning-with-Python-Achievement-1-Project%20Brief.pdf)**
+- **[Presentations: Final presentation with recommendations on algorithms to use for future analysis](https://github.com/Tiffkinn/ClimateWins-Pleasant_Predictions/blob/5b684b57259974ddae35e1453aeca23a5d0e9061/Project%20Briefs%20and%20Presentation/Weather%20Presentation%20ML%20TKinney.pdf)**
