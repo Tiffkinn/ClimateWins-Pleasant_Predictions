@@ -7,3 +7,10 @@ past 10 to 20 years. However, it thinks that even weather extremes could be pred
 **[Temperature data set](https://s3.amazonaws.com/coach-courses-us/public/courses/da-spec-ml/Scripts/A1/Dataset-weather-prediction-dataset-processed.csv)**
 
 This project uses a data set based on weather observations from 18 different weather stations across Europe, which contain data ranging from the late 1800s to 2022. Data values such as temperature, wind speed, snow, global radiation, etc. exist for almost every day. This data is collected by the [European Climate Assessment & Data Set project](https://www.ecad.eu/)
+
+## Key Questions
+
+- How can machine learning be used to study weather data?
+- Are there any ethical concerns with utilizing AI-specific for this project?
+- What were the historical maximum, minimum, and average temperatures?
+- Can daily past and future favorable weather conditions be predicted with machine learning?
